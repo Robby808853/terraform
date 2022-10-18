@@ -1,6 +1,6 @@
-# Terraform 
+# Infra as code (IAC) Repo: Terraform AWS VPC module
 
-vpc module
+This repo has GitHub code scanning enabled, for terraform AWS VPC module
 
 # GitHub Code Scanning
 
