@@ -6,7 +6,7 @@ vpc module
 
 Code scanning enables vulnerabilities to be detected and remediated prior to release into production, eliminating the cybersecurity risks that they pose. I recommond to choose GitHub native solutions for code scanning, code reviews and statit code analysis for seamless experience such as CodeQL or GraphQL etc
 
-# GitHub Native and Alternative Solutions?
+# GitHub Native and Alternative Solutions
 
 GitHub out of the box solutions are amazing, in this specific scenario, I want to scan the terroform repo code to make sure it meets the standards, auto review, check for vulnurabilities before and have a HashiCorp terraform CLI agent run the commands then deploy infra structure as code to provision AWS VPC stack into one of the AWS environments either its Dev, Test, UAT or Prod
 
@@ -14,7 +14,7 @@ For your need GitHub provides alternative tools in GitHub marketplace, AquaSec a
 
 This repo has TfSec file and Terraform CLI file along with the source code to run github code scanning using AquaSec security agent and Terraform CLI agent run using GitHub actions CI to execute actions
 
-Branch protection rules applied to master branch
+# Branch protection rules applied to master branch
 
 # AWS VPC Terraform module
 
